@@ -8,7 +8,7 @@ This portfolio documents hands-on cybersecurity projects completed as part of th
 ## Projects
 | Folder | Project | Status |
 |---|---|---|
-| audit | Security Audit | 🔄 In progress |
+| audit | Security Audit + Professional Statement | ✅ Completed |
 | network | Network Security Analysis | 🔄 In progress |
 | linux | Linux File Permissions | 🔄 In progress |
 | sql | SQL Security Filters | 🔄 In progress |
