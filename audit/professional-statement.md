@@ -1,0 +1,3 @@
+# Professional Statement - Google Cybersecurity Certificate
+
+I am a detail-oriented Data & Security Analyst with hands-on experience in anomaly detection, access controls, and audit logging across real production environments. I am passionate about cybersecurity because I believe that protecting data integrity is fundamental to protecting people — and my background in automation and pattern recognition gives me a strong foundation to identify and respond to threats effectively. My goal is to apply my analytical skills in a Blue Team role to help organizations strengthen their security posture and reduce risk before incidents occur.
