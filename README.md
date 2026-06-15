@@ -10,8 +10,8 @@ This portfolio documents hands-on cybersecurity projects completed as part of th
 |---|---|---|
 | audit | Professional Statement + Botium Toys Security Audit | ✅ Completed |
 | network | DoS Incident Analysis - NIST CSF | ✅ Completed |
-| linux | Linux File Permissions | 🔄 In progress |
-| sql | SQL Security Filters | 🔄 In progress |
+| linux | Linux Commands for Security Analysts | ✅ Completed |
+| sql | SQL Filters for Security Analysis | ✅ Completed |
 | incident-response | Incident Handler Journal - Entry 1 | ✅ Completed |
 | python-security | Python Security Scripts | 🔄 In progress |
 
