@@ -40,3 +40,34 @@ The attackers successfully delivered spear phishing emails containing malicious 
 - This incident highlights the importance of both technical controls (email filtering, EDR, backups) and human controls (phishing awareness training) working together.
 - Follow-up: Were the phishing emails reported by any employee before the malware executed? Early detection could have contained the blast radius significantly.
 
+
+---
+
+## Entry #2
+
+**Date:** May 30, 2026
+
+**Description:** SIEM investigation using Wazuh to identify failed SSH login attempts for root account on a mail server.
+
+**Tools Used:** Wazuh (SIEM platform)
+
+---
+
+## The 5 W's
+
+**WHO:** Unknown external threat actors attempting brute force SSH access.
+
+**WHAT:** Over 300 failed SSH login attempts targeting the root account on Buttercup Games' mail server (mailsv).
+
+**WHEN:** Events identified across historical log data indexed in Wazuh.
+
+**WHERE:** Buttercup Games mail server (mailsv) — /mailsv/secure.log
+
+**WHY:** Root account targeted via brute force — likely automated attack seeking privileged access to the mail server.
+
+---
+
+## Additional Notes
+- Query used: `host.keyword: mailsv AND (fail* OR failed) AND root`
+- High volume of failed attempts suggests automated brute force, not manual attack
+- Recommendation: disable root SSH login, implement fail2ban, enforce key-based authentication only
