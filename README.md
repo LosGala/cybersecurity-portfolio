@@ -12,7 +12,7 @@ This portfolio documents hands-on cybersecurity projects completed as part of th
 | network | DoS Incident Analysis - NIST CSF | ✅ Completed |
 | linux | Linux File Permissions | 🔄 In progress |
 | sql | SQL Security Filters | 🔄 In progress |
-| incident-response | Incident Handler Journal | 🔄 In progress |
+| incident-response | Incident Handler Journal - Entry 1 | ✅ Completed |
 | python-security | Python Security Scripts | 🔄 In progress |
 
 ## Contact
