@@ -13,6 +13,7 @@ This portfolio documents hands-on cybersecurity projects completed as part of th
 | linux | Linux Commands for Security Analysts | ✅ Completed |
 | sql | SQL Filters for Security Analysis | ✅ Completed |
 | incident-response | Incident Handler Journal - Entry 1 | ✅ Completed |
+| incident-response | Log Analysis — Threat Detection with NotebookLM | ✅ Completed |
 | python-security | Log Analyzer - Brute Force Detection | ✅ Completed |
 
 ## Contact
